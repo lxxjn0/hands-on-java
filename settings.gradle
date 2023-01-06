@@ -1,0 +1,8 @@
+rootProject.name = 'hands-on-java'
+
+include ':java-racingcar'
+include ':java-lotto'
+include ':java-blackjack'
+include ':java-chess'
+include ':java-ladder'
+include ':java-bowling'
